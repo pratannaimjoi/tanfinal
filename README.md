@@ -7,6 +7,6 @@ maka tinggal ketik pip3 install anuanu dan begitupun eror no module lainya dan m
 
 untuk titorial silahkan cek di channel youtube prankbots dibawah ini
 # KLIK DIBAWAH INI
-[![PrankBots](https://youtu.be/mmufAvLk0Jo "Pratannaimjoi")](https://bit.ly/2xbVxlh)
+[![ptatannaimjoi](https://youtu.be/mmufAvLk0Jo "Pratannaimjoi")](https://bit.ly/2xbVxlh)
 
 - ttd acil.
