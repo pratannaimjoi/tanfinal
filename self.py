@@ -149,7 +149,7 @@ def bot(op):
                       "imageUrl": url1,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line.me/ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -162,7 +162,7 @@ def bot(op):
                       "imageUrl": url2,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line.me/ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -175,7 +175,7 @@ def bot(op):
                       "imageUrl": url3,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "https://line.me/ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -188,7 +188,7 @@ def bot(op):
                       "imageUrl": url4,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -201,7 +201,7 @@ def bot(op):
                       "imageUrl": url5,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -214,7 +214,7 @@ def bot(op):
                       "imageUrl": url6,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -227,7 +227,7 @@ def bot(op):
                       "imageUrl": url7,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -240,7 +240,7 @@ def bot(op):
                       "imageUrl": url8,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -253,7 +253,7 @@ def bot(op):
                       "imageUrl": url9,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
@@ -266,7 +266,7 @@ def bot(op):
                       "imageUrl": url10,
                       "action": {
                         "type": "uri",
-                        "uri": "line://ti/p/~adiputra.95",
+                        "uri": "line://ti/p/~ptatan1983",
                         "area": {
                           "x": 447,
                           "y": 356,
