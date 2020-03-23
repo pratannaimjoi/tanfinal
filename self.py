@@ -319,7 +319,7 @@ def bot(op):
                                 "action": {
                                     "type": "uri",
                                     "label": "OPEN CHANNEL",
-                                    "uri": "line://app/1623679774-9GWpqpGw"
+                                    "uri": "line://app/1626602314-EjxgRaD5"
                                     }													
                                 },
                             {
@@ -343,7 +343,7 @@ def bot(op):
                     "imageUrl": "https://os.line.naver.jp/os/p/{}".format(ids.mid),
                     "action": {
                       "type": "uri",
-                      "uri": "http://line.me/ti/p/~adiputra.95"
+                      "uri": "http://line.me/ti/p/~ptatan1983"
                       }
                     }
                   )
@@ -402,7 +402,7 @@ def bot(op):
                                 "action": {
                                     "type": "uri",
                                     "label": "OPEN CHANNEL",
-                                    "uri": "line://app/1623679774-9GWpqpGw"
+                                    "uri": "line://app/1626602314-EjxgRaD5"
                                     }													
                                 },
                             {
@@ -525,7 +525,7 @@ def bot(op):
                   "aspectMode": "cover",
                   "action": {
                     "type": "uri",
-                    "uri": "https://line.me/ti/p/~adiputra.95"
+                    "uri": "https://line.me/ti/p/~ptatan1983"
                   }
                 },
                 "body": {
@@ -534,12 +534,12 @@ def bot(op):
                   "spacing": "md",
                   "action": {
                     "type": "uri",
-                    "uri": "https://line.me/ti/p/~adiputra.95"
+                    "uri": "https://line.me/ti/p/~ptatan1983"
                   },
                   "contents": [
                     {
                       "type": "text",
-                      "text": "━━━━━━╦℘яᴀɴᴋ™ʙøᴛ╦━━━━━━",
+                      "text": "TANBOTMEVERDIE✯͜͡❂➣",
                       "size": "md",
                       "color": "#00ffff"
                     },
